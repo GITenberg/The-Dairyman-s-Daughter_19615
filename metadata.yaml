@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8781
     wikipedia: http://en.wikipedia.org/wiki/Legh_Richmond
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19615#The-Dairyman-s-Daughter
 gutenberg_issued: '2006-10-24'
 gutenberg_type: Text
 identifiers:
